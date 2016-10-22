@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Лилия Рувняк](https://up.htmlacademy.ru/htmlcss/15/user/6225).
-* Наставник: `Неизвестно`.
+* Наставник: [Дима Ковалёв](https://htmlacademy.ru/profile/dima_kovalev).
 
 ---
 
